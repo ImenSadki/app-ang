@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "my-app",
   "version": "0.0.0",
   "scripts": {
@@ -25,7 +24,8 @@
     "express": "^4.18.2",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.14.10"
+    "zone.js": "~0.14.10",
+    "bootstrap": "^5.3.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.9",
@@ -41,9 +41,5 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.5.2"
-=======
-  "dependencies": {
-    "bootstrap": "^5.3.3"
->>>>>>> 2eca3cf1908e6f28b17b897f32fa4192cf2ea757
   }
 }
